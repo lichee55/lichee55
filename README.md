@@ -1,32 +1,8 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Lichee%2055&fontSize=50)
-
-<div align=left>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flichee55)](https://hits.seeyoufarm.com)
-
-</div>
-
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
-  </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lichee55&show_icons=true&theme=radical" />
-  </a>
-</div>
-
----
-
-### Interest.
-  - Web Application
-  - Full Stack
- -->
 
 <div align="center">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lichee55&show_icons=true&theme=radical"/>
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lichee55&show_icons=true&theme=radical&show_owner=false"/>
+  
 ### ⭐️ lichee55 ⭐️
 
 <a href="https://github.com/lichee55">
@@ -51,15 +27,15 @@ Full Stack
  
 </div>
   
- ---
+ <br>
  <br>
  
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lichee55&theme=radical&layout=compact&langs_count=10"/>
+ <img align="right" width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=lichee55&theme=radical&layout=compact&langs_count=10"/>
 
- <div float=left>
+ <div align=center width=50%>
   
  ### Once I've used...✏️
-
+---
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
