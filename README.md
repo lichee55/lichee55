@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lichee55&show_icons=true&theme=radical&show_owner=false"/>
+<img align="right" width=50% src="https://github-readme-stats.vercel.app/api?username=lichee55&show_icons=true&theme=radical&show_owner=false"/>
   
 ### ⭐️ lichee55 ⭐️
 
