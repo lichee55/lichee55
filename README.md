@@ -14,11 +14,12 @@
 
 ---
 
-### Interested
+### 🔍 Interested...
 
-JAVA /
-Web Application /
-Full Stack
+JAVA Spring /
+  Full Stack /
+Web Application 
+
 
 <!-- 🍏 [**seondal.log**](https://velog.io/@seondal) 🍏 공부기록 개발블로그
 🍊 [**Seondalgorithm**](https://whkakrkr.tistory.com) 🍊 알고리즘 문풀기록장 -->
@@ -26,15 +27,12 @@ Full Stack
  <br>
  
 </div>
-  
- <br>
- <br>
  
  <img align="right" width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=lichee55&theme=radical&layout=compact&langs_count=10&hide=jupyter%20notebook"/>
 
  <div align=center width=50%>
   
- ### Once I've used...✏️
+ ### ⌨️ I've used ...
 ---
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
