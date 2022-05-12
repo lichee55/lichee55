@@ -30,7 +30,7 @@ Full Stack
  <br>
  <br>
  
- <img align="right" width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=lichee55&theme=radical&layout=compact&langs_count=10"/>
+ <img align="right" width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=lichee55&theme=radical&layout=compact&langs_count=10&hide=jupyter%20notebook"/>
 
  <div align=center width=50%>
   
