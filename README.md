@@ -32,7 +32,7 @@ Web Application
 
  <div align=center width=50%>
   
- ### ⌨️ I've used ...
+ ### ⌨️ I've used it least once ...
 ---
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
