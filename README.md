@@ -16,7 +16,7 @@
 
 ### 🔍 Interested...
 
-JAVA Spring /
+Java Spring /
   Full Stack /
 Web Application 
 
